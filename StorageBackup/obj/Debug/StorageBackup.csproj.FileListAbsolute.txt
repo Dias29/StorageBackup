@@ -1,0 +1,8 @@
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\bin\Debug\StorageBackup.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\bin\Debug\StorageBackup.exe
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\bin\Debug\StorageBackup.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\bin\Debug\NecessaryClasses.dll
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\bin\Debug\NecessaryClasses.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\obj\Debug\StorageBackup.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\obj\Debug\StorageBackup.exe
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\StorageBackup\obj\Debug\StorageBackup.pdb

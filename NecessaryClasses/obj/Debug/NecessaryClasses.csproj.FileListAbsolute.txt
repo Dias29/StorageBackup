@@ -1,0 +1,5 @@
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\NecessaryClasses\obj\Debug\NecessaryClasses.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\NecessaryClasses\bin\Debug\NecessaryClasses.dll
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\NecessaryClasses\bin\Debug\NecessaryClasses.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\NecessaryClasses\obj\Debug\NecessaryClasses.dll
+d:\users10\asus\documents\visual studio 2015\Projects\StorageBackup\NecessaryClasses\obj\Debug\NecessaryClasses.pdb
